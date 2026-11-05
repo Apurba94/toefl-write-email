@@ -1,0 +1,11 @@
+{
+ "name": "toefl-write-email",
+ "title": "Email Writing Coach",
+ "exam": "TOEFL",
+ "area": "TOEFL Speaking and Writing",
+ "desc": "Write short emails to a professor, a landlord or a club, timed, with a checklist and model answers.",
+ "content": [
+  "email_tasks.json"
+ ],
+ "n": 78
+}
